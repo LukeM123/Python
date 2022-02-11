@@ -20,3 +20,6 @@ print(string[2::2])
 
 #The will start at index 2 and end at 7. It will step every 2.
 print(string[2:7:2])
+
+#This will reverse the string
+print(string[::-1])
